@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML.vcxproj, SFMLtemp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(49,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(221,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(222,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(223,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(224,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(256,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(257,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(258,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(259,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\x64\Debug\RPG.exe

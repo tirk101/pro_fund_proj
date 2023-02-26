@@ -1,0 +1,100 @@
+﻿  Game.cpp
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(49,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(221,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(222,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(223,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(224,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(256,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(257,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(258,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Game.cpp(259,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(226,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(227,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(243,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(244,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(260,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(261,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(276,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(277,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(297,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(298,58): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(322,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(323,58): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(347,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(348,58): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(372,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Player.cpp(373,58): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Scoreboard.cpp
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Scoreboard.cpp(18,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\Scoreboard.cpp(18,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  386 of 537 functions (71.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML.vcxproj -> D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\x64\Release\RPG.exe

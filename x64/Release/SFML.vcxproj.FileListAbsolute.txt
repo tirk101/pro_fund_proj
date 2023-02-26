@@ -1,0 +1,2 @@
+D:\Coding\GNO\RPG\SFMLtemplate-master\x64\Release\RPG.exe
+D:\Work\Y1\Programming Fundamental\GAME\SFMLtemplate-master\x64\Release\RPG.exe
